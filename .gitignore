@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+dist
+build
+examples
+test
+.babelrc
+.eslintignore
+.eslintrc
+.gitattributes
+.travis.yml
+components.json
+element_logo.svg
+package-lock.json
+yarn.lock
